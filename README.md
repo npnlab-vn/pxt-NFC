@@ -1,12 +1,5 @@
 # NFC
-
-這是專為micro:bit提供的NFC積木\
-This is the NFC blocks
-
-## Author
-Liou Zheng-Ji\
-劉正吉\
-[my page, https://sites.google.com/jes.mlc.edu.tw/ljj/](https://sites.google.com/jes.mlc.edu.tw/ljj/)
+This is an NFC blocks specially provided for micro:bit
 
 ## Description
 This extension is for DFRobot "NFC Module for Arduino". It has a UART interface that can be connected to micro:bit.\
@@ -35,5 +28,5 @@ This extension is for DFRobot "NFC Module for Arduino". It has a UART interface 
 (The metadata above is needed for package search.)
 
 ```package
-NFC=github:lioujj/pxt-NFC
+NFC=github:npnlab-vn/pxt-NFC
 ```
